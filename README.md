@@ -11,7 +11,7 @@
 -	Recording stock transactions
 -	Order handling
 
-**Functional requirements:**
+**Non-Functional requirements:**
 -	It should have an intuitive and responsive UI
 -	High availability with minimal downtime
 -	The system has to be scalable to handle an increasing number of products and users
